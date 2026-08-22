@@ -10,26 +10,32 @@
   "scripts": {
     "prepare-app": "node prepare.js",
     "start": "npm run prepare-app && electron .",
-    "dist": "npm run prepare-app && electron-builder --win nsis"
+    "dist": "npm run prepare-app && electron-builder --win squirrel"
   },
   "devDependencies": {
     "electron": "^31.7.6",
-    "electron-builder": "^24.13.3"
+    "electron-builder": "^24.13.3",
+    "electron-builder-squirrel-windows": "^24.13.3"
   },
   "build": {
     "appId": "io.github.codingmachineedge.bambuhuimd3",
     "productName": "BambuHui MD3",
     "artifactName": "BambuHuiMD3-Setup.${ext}",
-    "files": ["main.js", "app/**/*"],
-    "directories": { "output": "dist" },
-    "win": { "target": ["nsis"] },
-    "nsis": {
-      "oneClick": false,
-      "perMachine": false,
-      "allowToChangeInstallationDirectory": true,
-      "createDesktopShortcut": true,
-      "createStartMenuShortcut": true,
-      "shortcutName": "BambuHui MD3"
+    "files": [
+      "main.js",
+      "app/**/*"
+    ],
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": [
+        "squirrel"
+      ]
+    },
+    "squirrelWindows": {
+      "iconUrl": "https://raw.githubusercontent.com/Ding-Ding-Projects/BambuHui/main/design/assets/showcase/og-social.webp",
+      "artifactName": "BambuHuiMD3-Setup.${ext}"
     }
   }
 }
