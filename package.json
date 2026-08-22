@@ -1,0 +1,11 @@
+{
+  "name": "bambuhui",
+  "productName": "BambuHui",
+  "version": "0.1.0",
+  "description": "Bambu Studio-inspired Material Design 3 interface and documentation",
+  "private": true,
+  "scripts": {
+    "compose-site": "node design/scripts/compose-site.mjs _site"
+  },
+  "license": "MIT"
+}
