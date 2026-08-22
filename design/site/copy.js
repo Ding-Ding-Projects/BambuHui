@@ -22,7 +22,7 @@
 
   var copy = {
     /* ---------------------------------------------------------------- shell */
-    'shell.brand': { en: ['Bambu Studio'], yue: ['Bambu Studio'] },
+    'shell.brand': { en: ['BambuHui'], yue: ['BambuHui'] },
     'shell.tagline': { en: ['Material Design 3'], yue: ['Material Design 3'] },
     'shell.skip': { en: ['Skip to content'], yue: ['跳去內容'] },
     'shell.launch': {
@@ -102,32 +102,32 @@
     },
     'hero.headline': {
       en: [
-        'Bambu Studio, rebuilt on Material Design 3.',
-        'Bambu Studio, rebuilt on Material Design 3 — every screen.',
-        'Bambu Studio, wearing Material You.',
-        'Bambu Studio went for a Material You makeover and kept the receipts.',
-        'Bambu Studio walked into a Material You salon and walked out with cheekbones.'
+        'BambuHui, rebuilt on Material Design 3.',
+        'BambuHui, rebuilt on Material Design 3 — every screen.',
+        'BambuHui, wearing Material You.',
+        'BambuHui went for a Material You makeover and kept the receipts.',
+        'BambuHui walked into a Material You salon and walked out with cheekbones.'
       ],
       yue: [
-        'Bambu Studio 全面改用 Material Design 3。',
-        'Bambu Studio 成個介面轉晒 Material Design 3。',
-        'Bambu Studio 換咗 Material You 新衫。',
-        'Bambu Studio 去咗做 Material You facial，靚咗好多。',
-        'Bambu Studio 入咗 Material You 髮型屋，出返嚟連骨相都靚埋。'
+        'BambuHui 全面改用 Material Design 3。',
+        'BambuHui 成個介面轉晒 Material Design 3。',
+        'BambuHui 換咗 Material You 新衫。',
+        'BambuHui 去咗做 Material You facial，靚咗好多。',
+        'BambuHui 入咗 Material You 髮型屋，出返嚟連骨相都靚埋。'
       ]
     },
     'hero.lede': {
       en: [
-        'A Material Design 3 restyle of the Bambu Studio slicer. It runs entirely in the browser: light and dark themes, a density toggle, and an accent seed colour that regenerates the whole tonal palette.',
-        'A Material Design 3 restyle of the Bambu Studio slicer — every screen, faithfully rebuilt. Runs entirely in the browser: light and dark, a density toggle, and an accent seed colour that regenerates the whole tonal palette.',
-        'Every screen of the Bambu Studio slicer, restyled in Material Design 3 and running in your browser. Flip the theme, squeeze the density, pick a seed colour and watch the entire palette follow along.',
+        'A Material Design 3 restyle of the BambuHui slicer. It runs entirely in the browser: light and dark themes, a density toggle, and an accent seed colour that regenerates the whole tonal palette.',
+        'A Material Design 3 restyle of the BambuHui slicer — every screen, faithfully rebuilt. Runs entirely in the browser: light and dark, a density toggle, and an accent seed colour that regenerates the whole tonal palette.',
+        'Every screen of the BambuHui slicer, restyled in Material Design 3 and running in your browser. Flip the theme, squeeze the density, pick a seed colour and watch the entire palette follow along.',
         'We took every screen of the slicer, put it through Material Design 3, and left it running in your browser. Flip light to dark, squeeze the density, throw a seed colour at it and the whole palette obediently regenerates.',
         'Every single screen of the slicer got the Material Design 3 treatment, and it all runs in your browser with no install. Flip light to dark, squash the density, lob a seed colour at it and the entire palette rearranges itself like it was waiting to be asked.'
       ],
       yue: [
-        'Bambu Studio 切片軟件嘅 Material Design 3 改造版，完全喺瀏覽器行：淺色深色、密度切換，仲有種子色一改就重新生成成套色階。',
-        'Bambu Studio 切片軟件嘅 Material Design 3 改造版，每一版都照住重砌，完全喺瀏覽器行：淺色深色、密度切換，種子色一改就重新生成成套色階。',
-        '成個切片軟件嘅介面都用 Material Design 3 重新設計，喺瀏覽器就行得。轉主題、收密度、揀隻種子色，成套色階即刻跟住變。',
+        'BambuHui 切片器嘅 Material Design 3 改造版，完全喺瀏覽器行：淺色深色、密度切換，仲有種子色一改就重新生成成套色階。',
+        'BambuHui 切片器嘅 Material Design 3 改造版，每一版都照住重砌，完全喺瀏覽器行：淺色深色、密度切換，種子色一改就重新生成成套色階。',
+        '成個切片器嘅介面都用 Material Design 3 重新設計，喺瀏覽器就行得。轉主題、收密度、揀隻種子色，成套色階即刻跟住變。',
         '我哋將每一版介面掉入 Material Design 3 度洗一次，然後放喺瀏覽器等你玩。淺轉深、密度收窄、掟隻種子色入去，成套色階乖乖哋自己重生。',
         '每一版介面都做過 Material Design 3 大改造，喺瀏覽器直接行，唔使裝。淺轉深、密度收到貼晒、隨手掟隻種子色入去，成套色階即刻自動執位，好似等咗你好耐咁。'
       ]
@@ -225,14 +225,14 @@
     },
     'screens.body': {
       en: [
-        'The real Bambu Studio tab set, plus the connected-home handover this fork adds. Each card links to the matching screen in the interactive prototype.',
-        'The real Bambu Studio tab set, plus the connected-home handover this fork adds. Each card opens the matching screen in the interactive prototype.',
-        'The genuine Bambu Studio tab set, plus the Home Assistant handover this fork adds on top. Tap a card and the prototype opens on that screen.'
+        'The real BambuHui tab set, plus the connected-home handover this fork adds. Each card links to the matching screen in the interactive prototype.',
+        'The real BambuHui tab set, plus the connected-home handover this fork adds. Each card opens the matching screen in the interactive prototype.',
+        'The genuine BambuHui tab set, plus the Home Assistant handover this fork adds on top. Tap a card and the prototype opens on that screen.'
       ],
       yue: [
-        '真實 Bambu Studio 嘅分頁組合，加埋呢個分支新增嘅智能家居交接。每張卡片對應原型入面同一版介面。',
-        '真實 Bambu Studio 嘅分頁組合，加埋呢個分支新增嘅智能家居交接。撳張卡就會開返原型嗰一版。',
-        '正牌 Bambu Studio 嘅分頁組合，再加呢個分支自己加嘅 Home Assistant 交接。撳張卡，原型即刻跳去嗰一版。'
+        '真實 BambuHui 嘅分頁組合，加埋呢個分支新增嘅智能家居交接。每張卡片對應原型入面同一版介面。',
+        '真實 BambuHui 嘅分頁組合，加埋呢個分支新增嘅智能家居交接。撳張卡就會開返原型嗰一版。',
+        '正牌 BambuHui 嘅分頁組合，再加呢個分支自己加嘅 Home Assistant 交接。撳張卡，原型即刻跳去嗰一版。'
       ]
     },
 
@@ -1160,14 +1160,14 @@
     'build.step1.title': { en: ['Imported the MD3 design'], yue: ['匯入 MD3 設計'] },
     'build.step1.body': {
       en: [
-        "A full desktop-shell Material 3 design of the real Bambu Studio UI — nine screens, dialogs and tokens.",
-        "A full desktop-shell Material 3 design of the real Bambu Studio UI — nine screens, dialogs and tokens.",
-        "A whole desktop shell in Material 3, drawn against the real Bambu Studio UI — nine screens, the dialogs, and every token underneath."
+        "A full desktop-shell Material 3 design of the real BambuHui UI — nine screens, dialogs and tokens.",
+        "A full desktop-shell Material 3 design of the real BambuHui UI — nine screens, dialogs and tokens.",
+        "A whole desktop shell in Material 3, drawn against the real BambuHui UI — nine screens, the dialogs, and every token underneath."
       ],
       yue: [
-        "一套完整嘅桌面 Material 3 設計，覆蓋真實 Bambu Studio 介面 — 九版畫面、對話框同 token。",
-        "一套完整嘅桌面 Material 3 設計，照住真實 Bambu Studio 介面做 — 九版畫面、對話框同 token。",
-        "成個桌面外殼用 Material 3 重新畫過，對住真實 Bambu Studio 介面 — 九版畫面、啲對話框，連底下每粒 token。"
+        "一套完整嘅桌面 Material 3 設計，覆蓋真實 BambuHui 介面 — 九版畫面、對話框同 token。",
+        "一套完整嘅桌面 Material 3 設計，照住真實 BambuHui 介面做 — 九版畫面、對話框同 token。",
+        "成個桌面外殼用 Material 3 重新畫過，對住真實 BambuHui 介面 — 九版畫面、啲對話框，連底下每粒 token。"
       ]
     },
     'build.step2.title': { en: ['Tiny vanilla runtime'], yue: ['細細粒嘅原生執行環境'] },

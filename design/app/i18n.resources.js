@@ -51,15 +51,15 @@
     // Pages landing surface.
     'Screens': '畫面',
     "How it's built": '點樣整出嚟',
-    'Bambu Studio — Material Design 3 concept': 'Bambu Studio — Material Design 3 概念版',
-    'Bambu Studio · MD3 concept': 'Bambu Studio · MD3 概念版',
+    'BambuHui — Material Design 3 concept': 'BambuHui — Material Design 3 概念版',
+    'BambuHui · MD3 concept': 'BambuHui · MD3 概念版',
     'reimagined in': { text: '重新想像成', display: 'detail' },
     'Launch app': '開啟應用程式',
     'Launch the app': '開啟應用程式',
     'Toggle light / dark': '切換淺色／深色',
     'Independent concept redesign': '獨立概念重新設計',
-    'A pure Material Design 3 re-skin of the real Bambu Studio slicer — every screen, faithfully restyled. Runs entirely in the browser: light & dark themes, a density toggle, and a customizable accent seed color that regenerates the whole tonal palette.': {
-      text: '將真實 Bambu Studio 切片器完整換成 Material Design 3 外觀—每個畫面都忠實重新設計。全部在瀏覽器內運行，有淺色／深色主題、密度切換同可自訂強調色。',
+    'A pure Material Design 3 re-skin of the real BambuHui slicer — every screen, faithfully restyled. Runs entirely in the browser: light & dark themes, a density toggle, and a customizable accent seed color that regenerates the whole tonal palette.': {
+      text: '將真實 BambuHui 切片器完整換成 Material Design 3 外觀—每個畫面都忠實重新設計。全部在瀏覽器內運行，有淺色／深色主題、密度切換同可自訂強調色。',
       display: 'detail'
     },
     'Download native Windows app': '下載原生 Windows 應用程式',
@@ -100,8 +100,8 @@
     'Imported the MD3 design': '匯入 MD3 設計',
     'Tiny vanilla runtime': '輕量原生執行環境',
     'Coded by Codex CLI': '由 Codex CLI 編寫',
-    'A full desktop-shell Material 3 design of the real Bambu Studio UI — 9 screens, dialogs, tokens.': {
-      text: '將真實 Bambu Studio 介面完整設計成 Material 3 桌面外殼—包括 9 個畫面、對話方塊同設計令牌。',
+    'A full desktop-shell Material 3 design of the real BambuHui UI — 9 screens, dialogs, tokens.': {
+      text: '將真實 BambuHui 介面完整設計成 Material 3 桌面外殼—包括 9 個畫面、對話方塊同設計令牌。',
       display: 'detail'
     },
     "A dependency-free engine reimplements the design's template dialect — keyed patching that preserves focus & caret.": {
@@ -218,8 +218,8 @@
       text: '分享匿名使用資料',
       tone: 'literal'
     },
-    'Help improve Bambu Studio': {
-      text: '幫助改善 Bambu Studio',
+    'Help improve BambuHui': {
+      text: '幫助改善 BambuHui',
       tone: 'literal'
     },
 

@@ -1,5 +1,5 @@
 /*
- * Shared Bambu Studio shell logic, ported from
+ * Shared BambuHui shell logic, ported from
  * design-source/Bambu Studio.dc.html.
  */
 window.SCREENS = window.SCREENS || [];
@@ -219,7 +219,7 @@ class Main extends DCLogic {
         {label:'Edit', onClick:()=>this.setState({showHistory:true})},
         {label:'View', onClick:()=>this.notify(this.msg('viewMenu'))},
         {label:'Objects', onClick:()=>this.notify(this.msg('objectsMenu'))},
-        {label:'Help', onClick:()=>this.notify('Bambu Studio — Material Design 3 · v2.0.0', {icon:'info', actionLabel:'Docs', action:()=>{}})},
+        {label:'Help', onClick:()=>this.notify('BambuHui — Material Design 3 · v2.0.0', {icon:'info', actionLabel:'Docs', action:()=>{}})},
       ],
       showControls:s.showControls,
       toggleControls:()=>this.setState({showControls:!s.showControls}),

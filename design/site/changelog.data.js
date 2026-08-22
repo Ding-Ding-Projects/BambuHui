@@ -4,7 +4,7 @@
  * Every version, date, commit and asset below is copied from those two sources.
  */
 window.BAMBU_CHANGELOG = {
-  "repository": "Ding-Ding-Projects/BambuStudio",
+  "repository": "Ding-Ding-Projects/BambuHui",
   "latestTag": "md3-v32",
   "releaseCount": 39,
   "categoryDerivation": "leading-verb of the commit subject",

@@ -31,7 +31,7 @@
     return base || 'index.html';
   })();
 
-  var REPO = 'https://github.com/Ding-Ding-Projects/BambuStudio';
+  var REPO = 'https://github.com/Ding-Ding-Projects/BambuHui';
 
   var SCREENS = [
     { key: 'screen.home', icon: 'home', art: 'home.webp', alt: 'Finished geometric prints and a project folder arranged on a creative build plate.' },
@@ -85,7 +85,7 @@
               '<a class="btn btn-filled" href="' + APP_HREF + '">' +
                 '<span data-icon aria-hidden="true">rocket_launch</span>' +
                 '<span data-copy="hero.cta.launch"></span></a>' +
-              '<a class="btn btn-tonal" href="' + REPO + '/releases/latest/download/BambuStudioMD3-Setup.exe">' +
+              '<a class="btn btn-tonal" href="' + REPO + '/releases/latest/download/BambuHuiMD3-Setup.exe">' +
                 '<span data-icon aria-hidden="true">download</span>' +
                 '<span data-copy="hero.cta.download"></span></a>' +
               '<a class="btn btn-outline" href="' + REPO + '/tree/master/ui-md3" target="_blank" rel="noopener">' +
@@ -94,7 +94,7 @@
             '</div>' +
             '<p class="hint"><span data-icon aria-hidden="true">warning</span>' +
               '<span data-copy="hero.integrity"></span> ' +
-              '<a href="' + REPO + '/releases/latest/download/BambuStudioMD3-Setup.exe.sha256" data-copy="hero.checksum"></a> · ' +
+              '<a href="' + REPO + '/releases/latest/download/BambuHuiMD3-Setup.exe.sha256" data-copy="hero.checksum"></a> · ' +
               '<a href="' + REPO + '/releases/latest" data-copy="hero.releaseDetails"></a></p>' +
           '</div>' +
           '<div class="stage">' +
@@ -197,8 +197,8 @@
       '<div class="prose-card">' +
         '<h3 data-copy="download.verify.heading"></h3>' +
         '<p data-copy="download.verify.body"></p>' +
-        '<pre class="cmd mono"><code>certutil -hashfile BambuStudioMD3-Setup.exe SHA256</code></pre>' +
-        '<pre class="cmd mono"><code>gh attestation verify BambuStudioMD3-Setup.exe --repo Ding-Ding-Projects/BambuStudio</code></pre>' +
+        '<pre class="cmd mono"><code>certutil -hashfile BambuHuiMD3-Setup.exe SHA256</code></pre>' +
+        '<pre class="cmd mono"><code>gh attestation verify BambuHuiMD3-Setup.exe --repo Ding-Ding-Projects/BambuHui</code></pre>' +
         '<p class="hint"><span data-icon aria-hidden="true">warning</span>' +
           '<span data-copy="hero.integrity"></span></p>' +
       '</div>' +
