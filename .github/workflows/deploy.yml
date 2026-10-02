@@ -30,6 +30,9 @@ jobs:
       - name: Compose site
         run: node design/scripts/compose-site.mjs _site
 
+      - name: Exclude published pages from search indexing
+        run: node design/scripts/apply-pages-noindex.mjs _site
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
